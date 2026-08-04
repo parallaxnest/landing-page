@@ -1,0 +1,6 @@
+{
+  "name": "Parallax Nest",
+  "description": "Spatial AI and Digital Twin Operations Platform with physical neumorphic interfaces, interactive digital twin simulations, scenario planning, and operational intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
