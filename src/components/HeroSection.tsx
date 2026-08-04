@@ -392,7 +392,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
             href="/product"
             className="bg-[#F1E2E2] text-[#181C28] px-4 py-2 rounded-full font-semibold text-[13px] flex items-center gap-3 transition-all translate-x-3 neu-raised-light neu-raised-light-hover"
           >
-            <span>Parallax TwinOS</span>
+            <span>Explore Nexvanta</span>
             <div
               className="w-8 h-8 rounded-full flex items-center justify-center neu-raised-light text-[#3B82F6]"
             >

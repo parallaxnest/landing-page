@@ -135,7 +135,7 @@ export const Navigation: React.FC<NavigationProps> = ({ onRequestDemo }) => {
               href="/product"
               className="px-5 py-2.5 rounded-xl neu-raised-dark hover:neu-glow-teal text-xs font-bold uppercase tracking-wider text-[#3291B6] hover:text-white bg-[#141f2a] hover:bg-[#3291B6] border border-[#3291B6]/30 transition-all flex items-center gap-2 group cursor-pointer"
             >
-              <span>Parallax TwinOS</span>
+              <span>Explore Nexvanta</span>
               <ArrowUpRight className="w-4 h-4 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
             </a>
           </div>
@@ -186,7 +186,7 @@ export const Navigation: React.FC<NavigationProps> = ({ onRequestDemo }) => {
                   className="w-full py-3 rounded-xl neu-raised-dark text-xs font-bold uppercase tracking-wider text-white bg-[#3291B6] hover:bg-[#287796] flex items-center justify-center gap-2 shadow-lg"
                 >
                   <Layers className="w-4 h-4" />
-                  <span>Parallax TwinOS</span>
+                  <span>Explore Nexvanta</span>
                 </a>
               </div>
             </div>
